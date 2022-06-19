@@ -41,6 +41,7 @@
 
 <hr>
 <div align="center">
+      <h1>About me</h1>
 <details>
 <summary>경력</summary>
 <div markdown="1">       
